@@ -1,13 +1,13 @@
 # Roman Numerals exercise
 
-- Please timebox yourself to an hour for this exercise - we want to see code you are proud of, so spend more time if you need (just let us know)
-- Make sure your commits are meaningful so we can see your thinking
+- Please timebox yourself to two-hours for this exercise - we want to see code you are proud of, so spend more time if you need (just let us know)
+- Make sure your commits are meaningful and often so we can see your thinking
 - Fork this repository on GitHub, and store your code within your own fork
 - Use either Ruby, Python, Node.js or PHP to program this exercise
 - Use TDD to build a roman numeral generator
 - Make sure to include sufficient tests to have confidence in your code
-- The generator will take an integer value and return a string representation in roman numerals
-- For example, `29` would return `'XXIX'`
+- This exercise should include a `RomanNumerals` class with a `generate` method which takes an integer as a single parameter and which returns a string representation in roman numerals
+- For example, `29` would return `XXIX`
 - You don't need to worry about converting numbers above `1000` for this exercise
 - A `Makefile` must be used for this exercise in order to run tests with `make test`
 - The `make test` target should display the test runner output
