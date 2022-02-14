@@ -1,12 +1,12 @@
 # Roman Numerals exercise
 
-- Please timebox yourself to an hour for this exercise
+- Please timebox yourself to two-hours maximum for this exercise
 - Fork this repository on GitHub, and store your code within your own fork
 - Use either Ruby, Python, Node.js or PHP to program this exercise
 - Use TDD to build a roman numeral generator
 - Make sure to include sufficient tests to have confidence in your code
 - The generator will take an integer value and return a string representation in roman numerals
-- For example, `29` would return `'XXIX'`
+- For example, `29` would return `XXIX`
 - You don't need to worry about converting numbers above `1000` for this exercise
 - A `Makefile` must be used for this exercise in order to run tests with `make test`
 - The `make test` target should display the test runner output
